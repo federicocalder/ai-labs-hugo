@@ -1,0 +1,10 @@
+name = "AI Labs Theme"
+license = "MIT"
+description = "Custom theme optimized for Replit AI Labs landing page"
+homepage = "https://ailabs.systems"
+tags = ["business", "automation", "landing-page"]
+features = ["responsive", "seo"]
+min_version = "0.149.0"
+
+[author]
+  name = "Grand Prix Automations"

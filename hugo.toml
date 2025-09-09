@@ -1,0 +1,8 @@
+baseURL = 'https://ailabs.systems'
+languageCode = 'en-us'
+title = 'AI Labs — Leverage or Be Left Behind'
+theme = 'ailabs'
+
+[params]
+  description = "AI Labs replaces tool chaos with one unified automation engine. Execute 24/7 at machine speed and escape The Spiral."
+  author = "Grand Prix Automations"
