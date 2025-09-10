@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Labs — Leverage or Be Left Behind</title>
-    <link>http://localhost:1314/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on AI Labs — Leverage or Be Left Behind</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Sep 2025 13:15:28 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media</title>
-      <link>http://localhost:1314/media/media/</link>
+      <link>http://localhost:1313/media/media/</link>
       <pubDate>Wed, 10 Sep 2025 13:15:28 -0700</pubDate>
-      <guid>http://localhost:1314/media/media/</guid>
+      <guid>http://localhost:1313/media/media/</guid>
       <description></description>
     </item>
   </channel>
