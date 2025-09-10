@@ -1,16 +1,4 @@
-@font-face {
-    font-family: "Lemon Milk";
-    src: url("https://ailabs.systems/wp-content/uploads/fonts/LEMONMILK-Bold.otf") format("opentype");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Hundo";
-    src: url("https://ailabs.systems/wp-content/uploads/fonts/Hundo.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-}
+/* Font declarations moved to layouts/partials/fonts.html */
 
 * {
     margin: 0;
