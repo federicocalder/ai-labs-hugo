@@ -14,4 +14,31 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* Responsive Hero Background Images - 3-Device Strategy */
+.hero {
+    /* Mobile first (under 768px) */
+    background-image: url("{{ "/images/hero-bg-mobile.webp" | absURL }}") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important; /* scroll on mobile for better performance */
+    background-color: transparent !important;
+}
+
+/* iPad/Tablet (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .hero {
+        background-image: url("{{ "/images/hero-bg-mobile.webp" | absURL }}") !important;
+        background-attachment: scroll !important; /* keep scroll for tablets too */
+    }
+}
+
+/* Desktop (1025px and up) */
+@media (min-width: 1025px) {
+    .hero {
+        background-image: url("{{ "/images/hero-bg.webp" | absURL }}") !important;
+        background-attachment: fixed !important; /* fixed parallax only on desktop */
+    }
+}
 </style>

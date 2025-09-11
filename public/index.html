@@ -30,6 +30,25 @@
     font-style: normal;
     font-display: swap;
 }
+
+ 
+.hero {
+     
+    background-image: url("http://localhost:1313/images/hero-bg-mobile.webp") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important;  
+    background-color: transparent !important;
+}
+
+ 
+@media (min-width: 768px) {
+    .hero {
+        background-image: url("http://localhost:1313/images/hero-bg.webp") !important;
+        background-attachment: fixed !important;  
+    }
+}
 </style>
     <link rel="stylesheet" href="http://localhost:1313/css/style.css">
 </head>
@@ -45,7 +64,7 @@
     </nav>
 
     
-    <section id="start" class="hero" style="background-image: url('http://localhost:1313/images/hero-bg.webp') !important; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; background-attachment: fixed !important; background-color: transparent !important;">
+    <section id="start" class="hero">
         <div class="container">
             <div class="hero-content">
                 <div class="hero-text">
