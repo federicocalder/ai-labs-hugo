@@ -467,4 +467,36 @@
     <!-- JavaScript -->
     <script src="{{ "js/script.js" | absURL }}"></script>
 </body>
-</html>
+</html>{{ define "main" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AI Labs",
+  "alternateName": "Grand Prix Automations",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}/images/logo.png",
+  "sameAs": [
+    "https://grandprixrealty.agency"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "areaServed": "US",
+    "availableLanguage": "English"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Federico Calderon"
+  },
+  "service": {
+    "@type": "Service",
+    "name": "Business Automation Services",
+    "description": "Unified automation platform to replace tool chaos with machine-speed execution"
+  }
+}
+</script>
+
+{{ .Content }}
+{{ end }}
