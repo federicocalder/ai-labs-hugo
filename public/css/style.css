@@ -451,3 +451,311 @@ em {
         font-size: 18px;
     }
 }
+
+/* Navigation Styles */
+.main-navigation {
+    background: rgba(0, 0, 0, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 16px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.main-navigation .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: #ffffff;
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    font-size: 24px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 32px;
+    align-items: center;
+}
+
+.nav-menu a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-menu a:hover {
+    color: #6bb6ff;
+}
+
+.nav-menu .cta-button {
+    background: linear-gradient(135deg, #6bb6ff 0%, #9ad3ff 100%);
+    padding: 12px 24px;
+    border-radius: 50px;
+    color: #000000 !important;
+    font-weight: 600;
+}
+
+/* Page Content Styles */
+.page-content {
+    background: #000000;
+    color: #ffffff;
+    min-height: 100vh;
+    padding: 120px 0 80px 0;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.page-header h1 {
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+}
+
+.page-header time {
+    color: #888888;
+    font-size: 18px;
+}
+
+.page-body {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+.page-body h1, .page-body h2, .page-body h3 {
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    color: #6bb6ff;
+    margin: 40px 0 20px 0;
+    letter-spacing: 1px;
+}
+
+.page-body h1 {
+    font-size: 36px;
+}
+
+.page-body h2 {
+    font-size: 28px;
+}
+
+.page-body h3 {
+    font-size: 24px;
+}
+
+.page-body p {
+    margin-bottom: 24px;
+    font-size: 18px;
+}
+
+.page-body ul, .page-body ol {
+    margin: 24px 0;
+    padding-left: 32px;
+}
+
+.page-body li {
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+
+/* Blog Styles */
+.blog-list {
+    background: #000000;
+    color: #ffffff;
+    min-height: 100vh;
+    padding: 120px 0 80px 0;
+}
+
+.blog-header {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.blog-header h1 {
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+}
+
+.blog-header p {
+    color: #888888;
+    font-size: 20px;
+}
+
+.blog-posts {
+    display: grid;
+    gap: 48px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.blog-post-preview {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 40px;
+    transition: all 0.3s ease;
+}
+
+.blog-post-preview:hover {
+    background: rgba(255, 255, 255, 0.05);
+    transform: translateY(-4px);
+}
+
+.blog-post-preview h2 {
+    margin: 0 0 16px 0;
+}
+
+.blog-post-preview h2 a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    font-size: 28px;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.blog-post-preview h2 a:hover {
+    color: #6bb6ff;
+}
+
+.post-meta {
+    color: #888888;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.post-meta .author {
+    margin-left: 16px;
+}
+
+.post-excerpt {
+    color: #cccccc;
+    line-height: 1.6;
+    margin-bottom: 24px;
+    font-size: 18px;
+}
+
+.read-more {
+    color: #6bb6ff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.read-more:hover {
+    color: #9ad3ff;
+}
+
+/* Footer Styles */
+.main-footer {
+    background: rgba(0, 0, 0, 0.95);
+    color: #ffffff;
+    padding: 60px 0 30px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 48px;
+    margin-bottom: 40px;
+}
+
+.footer-section h3 {
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    color: #6bb6ff;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+}
+
+.footer-section h4 {
+    font-family: 'LEMONMILK-Bold', sans-serif;
+    color: #ffffff;
+    margin-bottom: 16px;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.footer-section p {
+    color: #cccccc;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+    color: #cccccc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-section ul li a:hover {
+    color: #6bb6ff;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 30px;
+    text-align: center;
+    color: #888888;
+}
+
+/* Mobile Responsiveness for New Components */
+@media (max-width: 768px) {
+    .main-navigation .container {
+        flex-direction: column;
+        gap: 16px;
+    }
+    
+    .nav-menu {
+        gap: 16px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .page-content, .blog-list {
+        padding: 140px 0 60px 0;
+    }
+    
+    .page-header h1, .blog-header h1 {
+        font-size: 32px;
+    }
+    
+    .blog-post-preview {
+        padding: 24px;
+    }
+    
+    .blog-post-preview h2 a {
+        font-size: 24px;
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 32px;
+        text-align: center;
+    }
+}

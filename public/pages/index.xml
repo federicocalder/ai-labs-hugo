@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Labs — Leverage or Be Left Behind</title>
-    <link>https://ailabs.systems/</link>
-    <description>Recent content on AI Labs — Leverage or Be Left Behind</description>
+    <title>Pages on AI Labs — Leverage or Be Left Behind</title>
+    <link>https://ailabs.systems/pages/</link>
+    <description>Recent content in Pages on AI Labs — Leverage or Be Left Behind</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Sep 2025 21:24:03 -0700</lastBuildDate>
-    <atom:link href="https://ailabs.systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailabs.systems/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
       <link>https://ailabs.systems/pages/about-us/</link>
       <pubDate>Fri, 12 Sep 2025 21:24:03 -0700</pubDate>
       <guid>https://ailabs.systems/pages/about-us/</guid>
       <description>&lt;p&gt;Content goes here&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Media</title>
-      <link>https://ailabs.systems/media/media/</link>
-      <pubDate>Wed, 10 Sep 2025 13:15:28 -0700</pubDate>
-      <guid>https://ailabs.systems/media/media/</guid>
-      <description></description>
     </item>
     <item>
       <title>About AI Labs</title>
@@ -37,25 +30,11 @@
       <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: January 17, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;information-you-provide&#34;&gt;Information You Provide&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Contact information (name, email, phone)&lt;/li&gt;&#xA;&lt;li&gt;Business information for automation setup&lt;/li&gt;&#xA;&lt;li&gt;Payment and billing details&lt;/li&gt;&#xA;&lt;li&gt;Communications with our team&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;automatically-collected-information&#34;&gt;Automatically Collected Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website usage analytics&lt;/li&gt;&#xA;&lt;li&gt;IP addresses and device information&lt;/li&gt;&#xA;&lt;li&gt;Cookies and similar tracking technologies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use collected information to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Provide and improve our automation services&lt;/li&gt;&#xA;&lt;li&gt;Communicate about your project and services&lt;/li&gt;&#xA;&lt;li&gt;Process payments and billing&lt;/li&gt;&#xA;&lt;li&gt;Send relevant business automation insights (with consent)&lt;/li&gt;&#xA;&lt;li&gt;Comply with legal obligations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-sharing&#34;&gt;Information Sharing&lt;/h2&gt;&#xA;&lt;p&gt;We do not sell personal information. We may share information with:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Stop Adding Tools and Start Eliminating Them</title>
-      <link>https://ailabs.systems/blog/stop-adding-tools/</link>
-      <pubDate>Fri, 17 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://ailabs.systems/blog/stop-adding-tools/</guid>
-      <description>&lt;h1 id=&#34;stop-adding-tools-and-start-eliminating-them&#34;&gt;Stop Adding Tools and Start Eliminating Them&lt;/h1&gt;&#xA;&lt;p&gt;Every week, another &amp;ldquo;revolutionary&amp;rdquo; business tool launches with promises to transform your workflow. And every week, entrepreneurs add it to their already-bloated tech stack, hoping this one will finally solve their problems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Here&amp;rsquo;s the harsh truth: You&amp;rsquo;re making the problem worse.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-tool-addiction-epidemic&#34;&gt;The Tool Addiction Epidemic&lt;/h2&gt;&#xA;&lt;p&gt;The average business uses 87 different software tools. &lt;strong&gt;Eighty-seven.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Think about that for a second. That&amp;rsquo;s 87 different logins, 87 different interfaces, 87 different ways for things to break. And when they inevitably don&amp;rsquo;t talk to each other, what&amp;rsquo;s the solution? Add another tool to connect them.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Terms of Service</title>
       <link>https://ailabs.systems/pages/terms/</link>
       <pubDate>Fri, 17 Jan 2025 16:00:00 +0000</pubDate>
       <guid>https://ailabs.systems/pages/terms/</guid>
       <description>&lt;h1 id=&#34;terms-of-service&#34;&gt;Terms of Service&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: January 17, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;agreement-to-terms&#34;&gt;Agreement to Terms&lt;/h2&gt;&#xA;&lt;p&gt;By accessing or using AI Labs services (&amp;ldquo;The Aegis&amp;rdquo;), you agree to be bound by these Terms of Service. If you disagree with any part of these terms, you may not access our services.&lt;/p&gt;&#xA;&lt;h2 id=&#34;services-description&#34;&gt;Services Description&lt;/h2&gt;&#xA;&lt;p&gt;AI Labs provides business automation services including but not limited to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unified automation platform implementation&lt;/li&gt;&#xA;&lt;li&gt;Custom workflow development&lt;/li&gt;&#xA;&lt;li&gt;System integration and optimization&lt;/li&gt;&#xA;&lt;li&gt;Strategic automation consulting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;user-responsibilities&#34;&gt;User Responsibilities&lt;/h2&gt;&#xA;&lt;p&gt;You agree to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Hidden Cost of Manual Follow-Up (And How to Fix It)</title>
-      <link>https://ailabs.systems/blog/hidden-cost-manual-followup/</link>
-      <pubDate>Thu, 16 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://ailabs.systems/blog/hidden-cost-manual-followup/</guid>
-      <description>&lt;h1 id=&#34;the-hidden-cost-of-manual-follow-up-and-how-to-fix-it&#34;&gt;The Hidden Cost of Manual Follow-Up (And How to Fix It)&lt;/h1&gt;&#xA;&lt;p&gt;You know you should follow up with leads. You know persistence wins deals. You know most sales happen after the 7th touchpoint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;But you&amp;rsquo;re still doing it manually, aren&amp;rsquo;t you?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what that&amp;rsquo;s actually costing you (and how to fix it for good).&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-math-that-will-make-you-sick&#34;&gt;The Math That Will Make You Sick&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s say you get 50 leads per month. Industry standard follow-up sequence: 7 touchpoints over 30 days.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

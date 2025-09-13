@@ -6,3 +6,35 @@ theme = 'ailabs'
 [params]
   description = "AI Labs replaces tool chaos with one unified automation engine. Execute 24/7 at machine speed and escape The Spiral."
   author = "Grand Prix Automations"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/pages/about"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
