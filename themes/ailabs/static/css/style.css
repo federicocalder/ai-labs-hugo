@@ -724,6 +724,33 @@ em {
     color: #888888;
 }
 
+/* Minimal Homepage Footer */
+.footer-content-minimal {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.footer-minimal-text p {
+    margin: 8px 0;
+    color: #cccccc;
+    font-size: 14px;
+}
+
+.footer-minimal-text p:first-child {
+    font-weight: 500;
+    color: #e8e8f0;
+}
+
+.footer-minimal-text a {
+    color: #6bb6ff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-minimal-text a:hover {
+    color: #ffffff;
+}
+
 /* Mobile Responsiveness for New Components */
 @media (max-width: 768px) {
     .main-navigation .container {

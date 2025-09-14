@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ailabs.systems/pages/about-us/</loc>
+    <loc>http://localhost:49967/</loc>
+    <lastmod>2025-09-13T16:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:49967/legal/</loc>
+    <lastmod>2025-09-13T16:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:49967/legal/privacy/</loc>
+    <lastmod>2025-09-13T16:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:49967/legal/terms/</loc>
+    <lastmod>2025-09-13T16:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:49967/legal/about-us/</loc>
     <lastmod>2025-09-12T21:24:03-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/</loc>
-    <lastmod>2025-09-12T21:24:03-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://ailabs.systems/pages/</loc>
-    <lastmod>2025-09-12T21:24:03-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://ailabs.systems/media/</loc>
+    <loc>http://localhost:49967/media/</loc>
     <lastmod>2025-09-10T13:15:28-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/media/media/</loc>
+    <loc>http://localhost:49967/media/media/</loc>
     <lastmod>2025-09-10T13:15:28-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/pages/about/</loc>
+    <loc>http://localhost:49967/about/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/categories/automation/</loc>
+    <loc>http://localhost:49967/categories/automation/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/tags/automation/</loc>
+    <loc>http://localhost:49967/tags/automation/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/blog/</loc>
+    <loc>http://localhost:49967/blog/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/categories/business-strategy/</loc>
+    <loc>http://localhost:49967/categories/business-strategy/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/categories/</loc>
+    <loc>http://localhost:49967/categories/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/pages/privacy/</loc>
+    <loc>http://localhost:49967/tags/productivity/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/tags/productivity/</loc>
+    <loc>http://localhost:49967/blog/stop-adding-tools/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/blog/stop-adding-tools/</loc>
+    <loc>http://localhost:49967/tags/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/tags/</loc>
+    <loc>http://localhost:49967/tags/tool-chaos/</loc>
     <lastmod>2025-01-17T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/pages/terms/</loc>
-    <lastmod>2025-01-17T16:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://ailabs.systems/tags/tool-chaos/</loc>
-    <lastmod>2025-01-17T16:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://ailabs.systems/tags/follow-up/</loc>
+    <loc>http://localhost:49967/tags/follow-up/</loc>
     <lastmod>2025-01-16T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/categories/sales/</loc>
+    <loc>http://localhost:49967/categories/sales/</loc>
     <lastmod>2025-01-16T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/tags/sales-automation/</loc>
+    <loc>http://localhost:49967/tags/sales-automation/</loc>
     <lastmod>2025-01-16T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ailabs.systems/blog/hidden-cost-manual-followup/</loc>
+    <loc>http://localhost:49967/blog/hidden-cost-manual-followup/</loc>
     <lastmod>2025-01-16T16:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI Labs — Leverage or Be Left Behind</title>
-    <link>https://ailabs.systems/categories/</link>
+    <link>http://localhost:50079/categories/</link>
     <description>Recent content in Categories on AI Labs — Leverage or Be Left Behind</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2025 16:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ailabs.systems/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50079/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automation</title>
-      <link>https://ailabs.systems/categories/automation/</link>
+      <link>http://localhost:50079/categories/automation/</link>
       <pubDate>Fri, 17 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://ailabs.systems/categories/automation/</guid>
+      <guid>http://localhost:50079/categories/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Business Strategy</title>
-      <link>https://ailabs.systems/categories/business-strategy/</link>
+      <link>http://localhost:50079/categories/business-strategy/</link>
       <pubDate>Fri, 17 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://ailabs.systems/categories/business-strategy/</guid>
+      <guid>http://localhost:50079/categories/business-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Sales</title>
-      <link>https://ailabs.systems/categories/sales/</link>
+      <link>http://localhost:50079/categories/sales/</link>
       <pubDate>Thu, 16 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>https://ailabs.systems/categories/sales/</guid>
+      <guid>http://localhost:50079/categories/sales/</guid>
       <description></description>
     </item>
   </channel>
