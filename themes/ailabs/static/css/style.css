@@ -471,10 +471,11 @@ em {
 
 .logo {
     color: #ffffff;
-    font-family: 'LEMONMILK-Bold', sans-serif;
+    font-family: "Hundo", Arial, sans-serif;
     font-size: 24px;
     text-decoration: none;
     letter-spacing: 2px;
+    font-weight: 400;
 }
 
 .nav-menu {
