@@ -1,0 +1,27 @@
+services:
+  - name: "AI Automation Ignition"
+    description: "Complete automation setup from chaos to control"
+    price: "Custom Quote"
+    features:
+      - "Tool consolidation strategy"
+      - "AI workflow design"
+      - "Implementation & testing"
+      - "24/7 monitoring setup"
+    
+  - name: "Marketing Automation Domination"
+    description: "Lead generation and nurturing on autopilot"
+    price: "Custom Quote"
+    features:
+      - "Lead capture automation"
+      - "Email sequence optimization"
+      - "CRM integration"
+      - "Performance analytics"
+      
+  - name: "Business Empire Automation"
+    description: "Full business process automation"
+    price: "Custom Quote"
+    features:
+      - "End-to-end workflow automation"
+      - "AI decision making systems"
+      - "Scale optimization"
+      - "Growth acceleration"

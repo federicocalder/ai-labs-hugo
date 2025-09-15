@@ -20,6 +20,14 @@ theme = 'ailabs'
     name = "About"
     url = "/pages/about"
     weight = 3
+  [[menu.main]]
+    name = "Automation"
+    url = "/automation"
+    weight = 4
+  [[menu.main]]
+    name = "Case Studies"
+    url = "/case-studies"
+    weight = 5
 
 [taxonomies]
   category = "categories"
