@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Media on AI Labs — Leverage or Be Left Behind</title>
-    <link>http://localhost:1315/media/</link>
-    <description>Recent content in Media on AI Labs — Leverage or Be Left Behind</description>
+    <title>Media on AI Labs — AI systems built for your workflow</title>
+    <link>https://ailabs.systems/media/</link>
+    <description>Recent content in Media on AI Labs — AI systems built for your workflow</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Sep 2025 13:15:28 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1315/media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailabs.systems/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Media</title>
-      <link>http://localhost:1315/media/media/</link>
+      <link>https://ailabs.systems/media/media/</link>
       <pubDate>Wed, 10 Sep 2025 13:15:28 -0700</pubDate>
-      <guid>http://localhost:1315/media/media/</guid>
+      <guid>https://ailabs.systems/media/media/</guid>
       <description></description>
     </item>
   </channel>

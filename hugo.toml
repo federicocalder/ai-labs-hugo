@@ -1,10 +1,10 @@
 baseURL = 'https://ailabs.systems'
 languageCode = 'en-us'
-title = 'AI Labs — Leverage or Be Left Behind'
+title = 'AI Labs — AI systems built for your workflow'
 theme = 'ailabs'
 
 [params]
-  description = "AI Labs replaces tool chaos with one unified automation engine. Execute 24/7 at machine speed and escape The Spiral."
+  description = "From first ignition to final optimization, we craft ready-to-deploy AI Automations built to match your unique way of working."
   author = "Grand Prix Automations"
 
 [menu]

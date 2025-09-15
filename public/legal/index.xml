@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Legals on AI Labs — Leverage or Be Left Behind</title>
-    <link>http://localhost:1315/legal/</link>
-    <description>Recent content in Legals on AI Labs — Leverage or Be Left Behind</description>
+    <title>Legals on AI Labs — AI systems built for your workflow</title>
+    <link>https://ailabs.systems/legal/</link>
+    <description>Recent content in Legals on AI Labs — AI systems built for your workflow</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Sep 2025 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/legal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailabs.systems/legal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1315/legal/privacy/</link>
+      <link>https://ailabs.systems/legal/privacy/</link>
       <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/legal/privacy/</guid>
+      <guid>https://ailabs.systems/legal/privacy/</guid>
       <description>&lt;h1 id=&#34;ai-labs-privacy-policy&#34;&gt;AI Labs Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: 13 September 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy explains how AI Labs, a brand of Grand Prix LLC, collects, uses, discloses and protects personal information when you visit our website or use our services. We are based in the United States and currently serve customers in the U.S. only. By using our services, you consent to the practices described in this Policy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-types-of-personal-data-collected&#34;&gt;1. Types of Personal Data Collected&lt;/h2&gt;&#xA;&lt;p&gt;Consistent with best practices for SaaS privacy policies, we disclose the categories of personal information we collect:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Terms &amp; Conditions</title>
-      <link>http://localhost:1315/legal/terms/</link>
+      <link>https://ailabs.systems/legal/terms/</link>
       <pubDate>Sat, 13 Sep 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/legal/terms/</guid>
+      <guid>https://ailabs.systems/legal/terms/</guid>
       <description>&lt;h1 id=&#34;ai-labs-grand-prix-llc-terms--conditions&#34;&gt;AI Labs (Grand Prix LLC) Terms &amp;amp; Conditions&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: 13 September 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;These Terms &amp;amp; Conditions (&amp;ldquo;Terms&amp;rdquo;) govern your access to and use of the services and software provided by AI Labs and AI Labs powered by Grand Prix (collectively &amp;ldquo;AI Labs,&amp;rdquo; &amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;). AI Labs is a brand operated by Grand Prix LLC, a Nevada limited liability company, with a principal place of business at 8275 S Eastern Ave #200, Las Vegas, NV 89123.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>http://localhost:1315/legal/about-us/</link>
+      <link>https://ailabs.systems/legal/about-us/</link>
       <pubDate>Fri, 12 Sep 2025 21:24:03 -0700</pubDate>
-      <guid>http://localhost:1315/legal/about-us/</guid>
+      <guid>https://ailabs.systems/legal/about-us/</guid>
       <description>&lt;p&gt;Content goes here&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

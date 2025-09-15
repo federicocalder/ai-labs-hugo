@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tool Chaos on AI Labs — Leverage or Be Left Behind</title>
-    <link>http://localhost:1315/tags/tool-chaos/</link>
-    <description>Recent content in Tool Chaos on AI Labs — Leverage or Be Left Behind</description>
+    <title>Tool Chaos on AI Labs — AI systems built for your workflow</title>
+    <link>https://ailabs.systems/tags/tool-chaos/</link>
+    <description>Recent content in Tool Chaos on AI Labs — AI systems built for your workflow</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jan 2025 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/tool-chaos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ailabs.systems/tags/tool-chaos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stop Adding Tools and Start Eliminating Them</title>
-      <link>http://localhost:1315/blog/stop-adding-tools/</link>
+      <link>https://ailabs.systems/blog/stop-adding-tools/</link>
       <pubDate>Fri, 17 Jan 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/blog/stop-adding-tools/</guid>
+      <guid>https://ailabs.systems/blog/stop-adding-tools/</guid>
       <description>&lt;h1 id=&#34;stop-adding-tools-and-start-eliminating-them&#34;&gt;Stop Adding Tools and Start Eliminating Them&lt;/h1&gt;&#xA;&lt;p&gt;Every week, another &amp;ldquo;revolutionary&amp;rdquo; business tool launches with promises to transform your workflow. And every week, entrepreneurs add it to their already-bloated tech stack, hoping this one will finally solve their problems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Here&amp;rsquo;s the harsh truth: You&amp;rsquo;re making the problem worse.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-tool-addiction-epidemic&#34;&gt;The Tool Addiction Epidemic&lt;/h2&gt;&#xA;&lt;p&gt;The average business uses 87 different software tools. &lt;strong&gt;Eighty-seven.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Think about that for a second. That&amp;rsquo;s 87 different logins, 87 different interfaces, 87 different ways for things to break. And when they inevitably don&amp;rsquo;t talk to each other, what&amp;rsquo;s the solution? Add another tool to connect them.&lt;/p&gt;</description>
     </item>
   </channel>
