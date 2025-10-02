@@ -33,6 +33,7 @@ jobs:
         key: ${{ secrets.SERVER_SSH_KEY }}
         script: |
           cd /var/www/ai-labs-hugo
+          git restore public/
           git pull origin main
           rm -rf public/*
           hugo --minify --baseURL="https://ailabs.systems"
